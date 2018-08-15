@@ -1,4 +1,4 @@
-package designpattern;
+package designpattern.strategie;
 
 public abstract class Canard {
 	
