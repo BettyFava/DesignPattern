@@ -1,0 +1,14 @@
+package designpattern.decorateur;
+
+public class Sumatra extends Boisson {
+
+	
+	public Sumatra() {
+		description = "Sumatra";
+	}
+
+	public double cout() {
+		return 1.29;
+	}
+
+}
